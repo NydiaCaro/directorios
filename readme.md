@@ -1,46 +1,44 @@
 
+  # REQUISITOS QUENERALES:
 
+	## Una página web de escuela de música que  contiene:
+	## una barra de navegacion con un logo de la escuela y 3 link que rédireccione en nosotros contacto talleres y un footer 
+	"" La página contine 4 secciones 
+	### La primera, es la sección header o cabecera con el nombre de la escuela como título h1
+	### La segunda sección, es un carrusel con imágenes de conciertos de la escuela
+	### La tercera sección es un card con 3 tarjetas de ancho y alto iguales no estan unidas entre si de 212X200
+	cada tarjeta cuenta con una imágen y con un texto de apoyo que hace relación a cada link de la barra de navegación
 
+	### La cuarta contiene un video con entrevista y logros de la escuela 
 
-
-  # REQUISITOS QUENERALES
-
-	## una pagina web de escuela de musica que contiene
-	## una barra de navegacion con un logo de la escuela y 3 link y un footer 
-	""la pagina contine 4 secciones 
-	### la primera, es la seccion header o cabecera con el nombre de la escuela como titulo h1
-	### la segunda seccion, es un carrusel con imagenes de conciertos de la escuela
-	### la tercera seccion es un card con 3 tarjetas de ancho y alto iguales no estan unidas entre si de 212X200
-	cada tarjeta cuenta una imagen y con texto de apoyo que hace relacion a cada link de la barra de navegacion
-
-	### la cuarta contiene un video con entrevista y logros
-
-		#REQUERIMIENTOS ESPECIFICOS
+		#REQUERIMIENTOS ESPECÍFICOS
 	
-	## iconos con background
+	## Iconos 
 
-	## usar repositorio Font awesome
-	## videos con casos de exitos y conciertos
-	## usar boostrap
-	## usar google fonts en caso de ser necesario
-	## usar google pattern para los fondos de paginas
-	## investigar sobre la escuela de musica en centro cultural quilicura
-	## ir al municipio para sacar mayor informacion 
+	## Usar repositório Font awesome
+	## Videos con casos de éxitos y conciertos, o consultar en la Escuela si cuentan con algunos de estos subidos a youtube
+	## Usar bootstrap
+	## Usar google fonts en caso de ser necesario
+	## Usar google pattern de ser necesario algún fondo para páginas
+	## Investigar sobre la escuela de música en Centro Cultural de Quilicura
+	## Ir al municipio para sacar mayor información 
 
 	# REQUERIMIENTOS VISUALES:
 
-	## para crear layout usar booststrap
-	## fuentes: buscar en Google Fonts
-	         ### titulos
-		     ### parrafos
+	## Para crear layout usar booststrap
+	## Fuentes: buscar en Google Fonts
+	         ### títulos
+		     ### párrafos
 
-	    ## colores
-		## letras #000000
-		## botones y background de icnonos: #325DFF
-		## imagenes, estas imagenes seran sacadas con disposito movil, en pagina del municipio
-		## iconos para buscar estos usare font-awesome
+	    ## Colores
+		## Letras #323333
+		## Botones íconos: #121619
+		## Íconos: para buscar estos usaré font-awesome
+		## Imágenes, estas serán sacadas con disposito movil o facilitadas por la Escuela de Música y algunas de estás pueden ser sacadas de Google
+		
 
 		sketch
 
 		![foto](assets/img/celular.png)
 		![foto](assets/img/imagen01.png)
+		![foto](assets/img/foto2.jpg)
