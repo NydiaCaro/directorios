@@ -1,3 +1,8 @@
-body.inicio{
-	background-image: url("../assets/img/fondo2.jpg")
+body{
+	background-image: url("../img/fondo2.jpg");
 }	
+
+h1{
+	text-align: center;
+}
+

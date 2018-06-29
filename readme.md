@@ -2,7 +2,7 @@
   # REQUISITOS QUENERALES:
 
 	## Una página web de escuela de música que  contiene:
-	## una barra de navegacion con un logo de la escuela y 3 link que rédireccione en nosotros contacto talleres y un footer 
+	## una barra de navegacion con un logo de la escuela y 3 link que rédireccione en nosotros talleres contacto y un footer 
 	"" La página contine 4 secciones 
 	### La primera, es la sección header o cabecera con el nombre de la escuela como título h1
 	### La segunda sección, es un carrusel con imágenes de conciertos de la escuela
@@ -11,9 +11,8 @@
 
 	### La cuarta contiene un video con entrevista y logros de la escuela 
 
-		#REQUERIMIENTOS ESPECÍFICOS
-	
-	## Iconos 
+		# REQUERIMIENTOS ESPECÍFICOS
+	 
 
 	## Usar repositório Font awesome
 	## Videos con casos de éxitos y conciertos, o consultar en la Escuela si cuentan con algunos de estos subidos a youtube
