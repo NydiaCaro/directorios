@@ -2,22 +2,33 @@
   # REQUISITOS QUENERALES:
 
 	## Una página web de escuela de música que  contiene:
-	## una barra de navegacion con un logo de la escuela y 3 link que rédireccione en nosotros talleres contacto y un footer 
-	"" La página contine 4 secciones 
-	### La primera, es la sección header o cabecera con el nombre de la escuela como título h1
-	### La segunda sección, es un carrusel con imágenes de conciertos de la escuela
-	### La tercera sección es un card con 3 tarjetas de ancho y alto iguales no estan unidas entre si de 212X200
-	cada tarjeta cuenta con una imágen y con un texto de apoyo que hace relación a cada link de la barra de navegación
+	## una barra de navegacion con un logo de la escuela y 5 link que rédireccione en inicio,nosotros, profesores, agrupaciones y contacto. 
 
-	### La cuarta contiene un video con entrevista y logros de la escuela 
+	 La página contine 7 secciones
+
+	### La primera, es el nav barra de navegación, que incluye el titulo principal y un carrusel.
+
+	### La segunda sección es Nosotros, tiene una imagen, con un párrafo que señala la historia de la escuela.
+	
+	### La tercera sección es Profesores e Instrumentos contiene una imagen y los nombres de profesores y talleres
+
+	### La cuarta sección contiene una imagen de la escuela y un párrafo donde indica las agrupaciones de esta.
+
+	#### La quinta sección es un video de ensayo de concierto.
+
+	### La sexta sección contiene un formulario de contacto y un mapa de la direccion de esta ecuela.
+
+	### La séptima sección es el footer contiene un título, teléfono, dirección y página de la escuela 
 
 		# REQUERIMIENTOS ESPECÍFICOS
 	 
 
 	## Usar repositório Font awesome
-	## Videos con casos de éxitos y conciertos, o consultar en la Escuela si cuentan con algunos de estos subidos a youtube
+	## javascript
+	## jquery
+	## Videos conciertos, o consultar en la Escuela si cuentan con algunos de estos subidos a youtube o facebook
 	## Usar bootstrap
-	## Usar google fonts en caso de ser necesario
+	## Usar google fonts
 	## Usar google pattern de ser necesario algún fondo para páginas
 	## Investigar sobre la escuela de música en Centro Cultural de Quilicura
 	## Ir al municipio para sacar mayor información 
