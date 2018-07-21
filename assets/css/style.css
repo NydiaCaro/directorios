@@ -9,6 +9,8 @@ body{
 
 }
 
+
+
 #titulo-principal{
 	text-align: center;
 	font-family: 'Lobster', cursive;
@@ -28,7 +30,12 @@ body{
 	width: 90%;
 
 }
-#título-1{
+
+#titulo-1:hover, h-1:hover, h-1:hover {
+    background-color: #848484;
+}
+
+#titulo-1{
 	text-align: center;
 	margin-top: 40px;
 
@@ -36,7 +43,7 @@ body{
 
 
 
-#párrafo-1{
+#parrafo-1{
 	margin-right: 30px;
 	margin-left: 30px;
 
@@ -49,7 +56,11 @@ body{
 	width: 90%;
 }
 
-#título-2{
+#titulo-2:hover, h-2:hover, h-2:hover {
+    background-color: #848484;
+}
+
+#titulo-2{
 	text-align: center;
 	margin-top: 40px;
 
@@ -61,7 +72,11 @@ body{
 	width: 90%;
 }
 
-#título-3{
+#titulo-3:hover, h-3:hover, h-3:hover {
+    background-color: #848484;
+}
+
+#titulo-3{
 	text-align: center;
 	margin-top: 30px;
 	margin-bottom: 10px;
